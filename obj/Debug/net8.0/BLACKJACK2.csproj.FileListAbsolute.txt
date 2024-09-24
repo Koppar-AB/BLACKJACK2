@@ -1,0 +1,14 @@
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\bin\Debug\net8.0\BLACKJACK2.exe
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\bin\Debug\net8.0\BLACKJACK2.deps.json
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\bin\Debug\net8.0\BLACKJACK2.runtimeconfig.json
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\bin\Debug\net8.0\BLACKJACK2.dll
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\bin\Debug\net8.0\BLACKJACK2.pdb
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.AssemblyInfoInputs.cache
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.AssemblyInfo.cs
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.csproj.CoreCompileInputs.cache
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.dll
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\refint\BLACKJACK2.dll
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.pdb
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\BLACKJACK2.genruntimeconfig.cache
+C:\Users\alma.bjorup\source\repos\BLACKJACK2\BLACKJACK2\obj\Debug\net8.0\ref\BLACKJACK2.dll
